@@ -1,32 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
-hash = "84bbfe8fa25a453dae3a8e6c46e8e129f48f7d9df58e33bb7f3d28b90f591b3f"
+file = "custom_jars/patched_cataclysm_spellbooks.jar"
+hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"
 
 [[files]]
-file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
-hash = "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
+file = "custom_jars/patched_epic_fight_avalon.jar.jar"
+hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.48+1.20.1.jar"
-hash = "b22aa7794c67805eb8fdfe72af840ace6feb1c21c4a64385ca111a2c18abbafd"
-
-[[files]]
-file = "mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
-hash = "1fe75e73787718a864932415ce0785426c88b7051829ee34768ddbd2cf119fa5"
-
-[[files]]
-file = "mods/EpicFight Nightfall-3.2.4-all.jar"
-hash = "d9c6d58ed7601d0fb8762130dd6cc995ddde30a93c251c48b7fb4eda94cc0681"
-
-[[files]]
-file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
-hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
-
-[[files]]
-file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
-hash = "c77a13e3879f9f991cf592abac60ad0c6d2ed17f5ff697ec2db3872b22902d4a"
+file = "custom_jars/patched_traveloptics.jar"
+hash = "a5382e428a4fe8670f4e80ecf77a9f56046b0b008799f2566b18f49719911e16"
 
 [[files]]
 file = "mods/aaa-particles.pw.toml"
@@ -154,10 +138,6 @@ hash = "d249da4f1bab806ec4fe9689e6acbb57045c5edcb94f24c9b8305dce1b66dcac"
 metafile = true
 
 [[files]]
-file = "mods/caelus-forge-3.2.0+1.20.1.jar"
-hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
-
-[[files]]
 file = "mods/cataclysm-tools.pw.toml"
 hash = "e2cc40fe0f56a019e31259c526303cfb593e8f76cd06267c2cf65a5fd37f913b"
 metafile = true
@@ -166,10 +146,6 @@ metafile = true
 file = "mods/cataclysm-x-yungs.pw.toml"
 hash = "c70bc24b041d93887a40fe45e49ba54c65f6e76692ebc442a6a9a93c2f0637c0"
 metafile = true
-
-[[files]]
-file = "mods/cataclysm_spellbooks-1.2.9-1.20.1-patched-cataclysm.jar"
-hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"
 
 [[files]]
 file = "mods/cbc-nuclear.pw.toml"
@@ -220,10 +196,6 @@ metafile = true
 file = "mods/collective.pw.toml"
 hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
 metafile = true
-
-[[files]]
-file = "mods/common-networking-forge-1.0.5-1.20.1.jar"
-hash = "914b0cbd4544ea8be8b3f3ba5cfd94e5efda036613dc0f6cb6321148bbe1c0a9"
 
 [[files]]
 file = "mods/compat-api.pw.toml"
@@ -421,17 +393,9 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
-file = "mods/create_connected-1.1.13-mc1.20.1-all.jar"
-hash = "dadc604fdf702265fcc8be0b7f6edbe133d56b6e71af61d47da999b2a045b247"
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
-
-[[files]]
-file = "mods/createbb-1.20.1-1.1.3.jar"
-hash = "a3de79047050241788889723e6806856f7b3da9d9303a6b9246cde26b32a9e51"
 
 [[files]]
 file = "mods/createnuclear.pw.toml"
@@ -447,10 +411,6 @@ metafile = true
 file = "mods/creativecore.pw.toml"
 hash = "ba80cc37957ed8c7f6766ea09fa2c0d4364e22d977a3d79cf1d95b0cec63e04d"
 metafile = true
-
-[[files]]
-file = "mods/ctov-create-structures-1.0.jar"
-hash = "ffe9a8d96e585138f7aa5c07dbbf4039cbefaaa1f8b74f78fb7d6d44ae2cea08"
 
 [[files]]
 file = "mods/ctrl-q.pw.toml"
@@ -558,14 +518,6 @@ hash = "620c59cdb9248352446eb21b349251dc10458bffef391f2789c9f0a4ec78a3c5"
 metafile = true
 
 [[files]]
-file = "mods/epic_fight_avalon-20.12.6.4-patched-no-empty-skin.jar"
-hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
-
-[[files]]
-file = "mods/epicfight-extra-1.1.4-mc1.20.1-forge.jar"
-hash = "6357a07bc990ca5885ba2f0185977e821dc3144570fac23c94800b13755ece24"
-
-[[files]]
 file = "mods/epicfight-improve.pw.toml"
 hash = "3b458e4b92f498dc517c635eadd50563b4f3540648c2d5d7002dbeb2e795d136"
 metafile = true
@@ -666,14 +618,6 @@ hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
-hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
-
-[[files]]
-file = "mods/gravestone-forge-1.20.1-1.0.35.jar"
-hash = "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387"
-
-[[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "4e9a8e9192b8a65bbb1dbb50b2b8bf51cc09c6d8be2bc75a3430b5695c1fa399"
 metafile = true
@@ -732,10 +676,6 @@ metafile = true
 file = "mods/iceandfire-ce.pw.toml"
 hash = "f97a47b4664440f113cf3aafb5191855d3b29bcb5bdeaeb8ffdd5d009263e00d"
 metafile = true
-
-[[files]]
-file = "mods/iceandfire_smithing-1.20.1.jar"
-hash = "ddaa5f14e8873b425a16433378e0e4ebc6909c6f7d6f8e9082c27e278522227e"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -958,6 +898,21 @@ hash = "f2dac6ca0291f11a8f544bf38d8417fedcd25682dcc1fda2c4d6d3c9bc5f9e42"
 metafile = true
 
 [[files]]
+file = "mods/patched_cataclysm_spellbooks.pw.toml"
+hash = "be70f95f94eef7cf56459c40922329e9da2ed48ca68175e212d424b240e771a6"
+metafile = true
+
+[[files]]
+file = "mods/patched_epic_fight_avalon.pw.toml"
+hash = "38c24a2a7e763239d4ca0e34ae89fe0109a364fe212f78cd6062d94471f91d6b"
+metafile = true
+
+[[files]]
+file = "mods/patched_traveloptics.pw.toml"
+hash = "f27d28c74f5a96ad3b5c12cfb0272cdba104ca19a6ba8033736abd387f56e238"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
@@ -1113,26 +1068,6 @@ hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.20.1-3.24.29.1603.jar"
-hash = "948fd68141d03c506bcd6e51381090fb44bbd614b7d87db57a83c4f8b2037c3f"
-
-[[files]]
-file = "mods/sophisticatedbackpackscreateintegration-1.20.1-0.1.5.30.jar"
-hash = "2a833a75a2d18f6d07eea321f8ec86ae61b603feebac54185f407ba6f57ee407"
-
-[[files]]
-file = "mods/sophisticatedcore-1.20.1-1.3.10.1552.jar"
-hash = "478bbcd7accbeea22f4c8437a96196b7984d594ea717cab53f73cde059c852f7"
-
-[[files]]
-file = "mods/sophisticatedstorage-1.20.1-1.4.29.1536.jar"
-hash = "31a12113e309ce5ed87a821704adf9b0bf5adad49ec5ec6037c303b38b8529e9"
-
-[[files]]
-file = "mods/sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar"
-hash = "5984ba411861c9b30f2967aa8dacddab60b1c992425410868ad967f08405acc6"
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
@@ -1166,10 +1101,6 @@ metafile = true
 file = "mods/the-lost-castle.pw.toml"
 hash = "706c7143eeba0cee6ca9f099dc8473f6ab428c499a370b34bb5278f871e1877b"
 metafile = true
-
-[[files]]
-file = "mods/traveloptics-6.3.0-1.20.1-patched-cataclysm-v2.jar"
-hash = "a5382e428a4fe8670f4e80ecf77a9f56046b0b008799f2566b18f49719911e16"
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
