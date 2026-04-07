@@ -3,7 +3,7 @@ filename = "patched_traveloptics.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1457542412879663297/1490855111583465734/traveloptics-6.3.0-1.20.1-patched-cataclysm-v2.jar?ex=69d59285&is=69d44105&hm=acffd2c6c43add691c4d8920d2995ce59de27e5d0b37bcd1b5cf51a3900e854d&"
+url = "https://github.com/Fishcakes39/LucceGuido/blob/fa78606c0c984d7761684b19e4560761cc3685bd/custom_jars/patched_traveloptics.jar"
 
 hash-format = "sha256"
 hash = "a5382e428a4fe8670f4e80ecf77a9f56046b0b008799f2566b18f49719911e16"

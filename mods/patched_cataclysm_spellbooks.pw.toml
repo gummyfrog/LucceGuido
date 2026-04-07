@@ -3,7 +3,7 @@ filename = "patched_cataclysm_spellbooks.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1457542412879663297/1490855111096930496/cataclysm_spellbooks-1.2.9-1.20.1-patched-cataclysm.jar?ex=69d59285&is=69d44105&hm=848d1a307ac87e02ae2637b7fb70db039a815a49587457db9610f2f2d2d95b30&"
+url = "https://github.com/Fishcakes39/LucceGuido/blob/fa78606c0c984d7761684b19e4560761cc3685bd/custom_jars/patched_cataclysm_spellbooks.jar"
 
 hash-format = "sha256"
 hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"

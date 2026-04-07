@@ -3,7 +3,7 @@ filename = "patched_epic_fight_avalon.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1457542412879663297/1490855111365497015/epic_fight_avalon-20.12.6.4-patched-no-empty-skin.jar?ex=69d59285&is=69d44105&hm=8720502a310975010d186772c7b6361f5a00eeec1975f7be02bc68028fadc598&"
+url = "https://github.com/Fishcakes39/LucceGuido/blob/fa78606c0c984d7761684b19e4560761cc3685bd/custom_jars/patched_epic_fight_avalon.jar.jar"
 
 hash-format = "sha256"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
